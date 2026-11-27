@@ -18,7 +18,7 @@ Broadside is not on the App Store yet (App Store name "Broadside Newspaper", app
 
 Pricing (€4.99 per month, €19.99 per year, €39.99 Lifetime in Germany, 7-day free trial on the subscriptions) comes from the app's StoreKit configuration and App Store metadata as of November 27, 2026. Verify against the live listing after release. Local prices may vary. English and German pages must stay in sync.
 
-Screenshots are the framed App Store screenshots of version 1.0 (`assets/screenshots/en` and `assets/screenshots/de`): iPhone resized to 660 × 1434, iPad to 1032 × 1376 and Mac to 1440 × 900 WebP.
+Screenshots are the raw app captures of version 1.0 composed into real Apple device bezels (Apple Design Resources: iPhone 18 Pro Max, iPad Pro 13", MacBook Pro 16") with transparent backgrounds, in `assets/screenshots/devices` (iPhone 700 px, iPad 1000 px, Mac 1600 px wide, WebP with alpha). They have no baked-in captions, so both languages share them and captions live in the HTML.
 
 ## Rights
 
